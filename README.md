@@ -1,8 +1,8 @@
 # ARM and ARM Templates
 
-This is the demo arm template from the my talk on Azure Resource Manager.
+This is the demo arm template from the talk on Azure Resource Manager.
 
-There is instructions provder to deploy this template 3 ways. 
+There is instructions provided to deploy this template 3 ways.
 
  - Through the Azure Portal
  - Powershell
